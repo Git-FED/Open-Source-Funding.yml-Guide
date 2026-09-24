@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Platform account support
+    url: https://github.com/FED-OS/open-source-funding-guide/discussions
+    about: Account, payout, or identity questions belong with the platform first.

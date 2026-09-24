@@ -1,0 +1,14 @@
+name: Link check
+on:
+  pull_request:
+  schedule:
+    - cron: "17 4 * * 1"
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          args: "--verbose --no-progress '**/*.md' 'docs/**/*.html'"
+          fail: true
