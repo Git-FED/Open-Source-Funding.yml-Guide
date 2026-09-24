@@ -1,0 +1,10 @@
+platform,card,paypal,apple_google_pay,bank_transfer,crypto,invoice,coverage_note
+GitHub Sponsors,yes,no,varies,yes,no,org-dependent,GitHub discovery with Stripe-backed payouts
+Ko-fi,yes,yes,varies,no,no,no,connect your own rails
+Buy Me a Coffee,yes,no,varies,no,no,no,Stripe availability matters
+Liberapay,yes,yes,varies,no,no,no,regional support differs
+Patreon,yes,yes,varies,via payout partners,no,no,creator payout options vary
+Open Collective,yes,yes,varies,yes,host-dependent,yes,fiscal host is the key variable
+Polar,yes,no,varies,no,no,no,developer commerce rail
+IssueHunt,partner-dependent,no,no,no,partner-dependent,no,bounty-specific
+BTCPay Server,no,no,no,no,yes,no,self-hosted crypto only

@@ -1,0 +1,110 @@
+[
+  {
+    "name": "GitHub Sponsors",
+    "fee": "0% personal / up to 6% org",
+    "rails": "Card via Stripe Connect",
+    "difficulty": "\ud83d\udfe2 Beginner",
+    "age": "13+ with guardian support",
+    "best_for": "Solo maintainers on GitHub",
+    "backup": "Ko-fi or Liberapay"
+  },
+  {
+    "name": "Ko-fi",
+    "fee": "0% tips; 5% memberships/shop",
+    "rails": "Stripe and/or PayPal",
+    "difficulty": "\ud83d\udfe2 Beginner",
+    "age": "13+ with guardian support",
+    "best_for": "Tips, memberships, small shops",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "fee": "5% + processor",
+    "rails": "Card via Stripe",
+    "difficulty": "\ud83d\udfe2 Beginner",
+    "age": "13+ with guardian support",
+    "best_for": "Fastest tip page",
+    "backup": "Ko-fi or Liberapay"
+  },
+  {
+    "name": "Liberapay",
+    "fee": "0% platform + processor",
+    "rails": "Stripe and PayPal where available",
+    "difficulty": "\ud83d\udfe1 Intermediate",
+    "age": "Verify local contract rules",
+    "best_for": "Pure recurring donations",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "Patreon",
+    "fee": "5\u201312% + processor + payout",
+    "rails": "Cards, PayPal, wallet methods vary",
+    "difficulty": "\ud83d\udfe1 Intermediate",
+    "age": "18+ or guardian arrangement",
+    "best_for": "Membership communities",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "Polar",
+    "fee": "5% + fixed/processor charges",
+    "rails": "Card via Stripe",
+    "difficulty": "\ud83d\udfe1 Intermediate",
+    "age": "18+ recommended",
+    "best_for": "Software, licenses, digital goods",
+    "backup": "Ko-fi"
+  },
+  {
+    "name": "Open Collective",
+    "fee": "Typically host + processor range",
+    "rails": "Card, PayPal, transfers vary by host",
+    "difficulty": "\ud83d\udfe0 Advanced",
+    "age": "18+ / entity context",
+    "best_for": "Teams and transparent budgets",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "thanks.dev",
+    "fee": "Model-specific; verify current terms",
+    "rails": "B2B distribution; payout rail varies",
+    "difficulty": "\ud83d\udfe1 Intermediate",
+    "age": "18+ recommended",
+    "best_for": "Corporate dependency funding",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "IssueHunt",
+    "fee": "20% bounty fee stated in brief",
+    "rails": "Fiat/crypto partners vary",
+    "difficulty": "\ud83d\udfe0 Advanced",
+    "age": "18+ recommended",
+    "best_for": "Issue bounties",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "Tidelift",
+    "fee": "Negotiated revenue share",
+    "rails": "Enterprise subscription distribution",
+    "difficulty": "\ud83d\udfe0 Advanced",
+    "age": "18+ / enterprise context",
+    "best_for": "Enterprise-backed packages",
+    "backup": "GitHub Sponsors"
+  },
+  {
+    "name": "Community Bridge / LFX",
+    "fee": "Program and host terms vary",
+    "rails": "Cards, invoices, grants vary",
+    "difficulty": "\ud83d\udfe0 Advanced",
+    "age": "Project eligibility required",
+    "best_for": "Linux Foundation ecosystem",
+    "backup": "Ko-fi or GitHub Sponsors"
+  },
+  {
+    "name": "BTCPay Server",
+    "fee": "0% platform; infrastructure cost",
+    "rails": "Bitcoin / Lightning",
+    "difficulty": "\ud83d\udd34 Expert",
+    "age": "18+ technical responsibility",
+    "best_for": "Crypto-native projects",
+    "backup": "GitHub Sponsors or Ko-fi"
+  }
+]

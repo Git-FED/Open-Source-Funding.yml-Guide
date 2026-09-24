@@ -1,0 +1,9 @@
+platform,platform_fee,processor_fee,typical_total,notes,last_verified
+GitHub Sponsors,0% personal / up to 6% org,Stripe varies,0% personal / higher for orgs,Verify account type,2026-09-24
+Ko-fi,0% tips / 5% other,Stripe or PayPal,processor only on tips,Memberships and shop differ,2026-09-24
+Buy Me a Coffee,5%,Stripe,about 8% plus fixed,Card-only payout flow,2026-09-24
+Liberapay,0%,Stripe or PayPal,processor only,Availability varies by country,2026-09-24
+Patreon,5-12%,processor and payout,about 9-15%+,Plan and currency matter,2026-09-24
+Polar,5% plus fixed,Stripe,about 8% plus fixed,Sales tax treatment varies,2026-09-24
+Open Collective,host-dependent,processor,about 8-13% typical range,Host controls economics,2026-09-24
+IssueHunt,20% bounty fee,partner-dependent,about 20% plus rail cost,Bounty model not tips,2026-09-24

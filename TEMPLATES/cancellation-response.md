@@ -1,0 +1,1 @@
+Thank you for supporting [project]. I understand priorities change. Your past support helped with [outcome]. If you are comfortable sharing one sentence about what changed, it will help me improve the project; there is no obligation.

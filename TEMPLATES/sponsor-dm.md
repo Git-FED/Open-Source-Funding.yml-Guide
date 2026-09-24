@@ -1,0 +1,1 @@
+Hi [name] — thanks for using [project]. I’m working on [maintenance outcome]. If the project is useful to your team, support at [link] helps keep releases and issue triage sustainable. No pressure; I wanted the option to be visible.
